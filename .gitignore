@@ -1,5 +1,6 @@
 *~
 *.DS_store
+*.idea
 
 # Temporary directory for debugging extension samples
 _debug
